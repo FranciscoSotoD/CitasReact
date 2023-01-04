@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* min height y max height*/
+.minMaxTextArea {
+    min-height: 100px;
+    max-height: 100px;
+}
